@@ -40,3 +40,5 @@
                    | |___|  __/\ V / | | | | | |_| |>  <
                    |_____|\___| \_/  |_|_| |_|\__,_/_/\_\
 
+
+![Snake animation](https://github.com/levalves/levalves/blob/output/github-contribution-grid-snake.svg)
