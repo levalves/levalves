@@ -17,11 +17,11 @@
   <img align="center" alt="Levalves-Terraform" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
   <img align="center" alt="Levalves-Ansible" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" />
   <img align="center" alt="Levalves-Docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img align="center" alt="Levalves-Bash" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-  <img align="center" alt="Levalves-Aws" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
 </div>
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="Levalves-Bash" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+  <img align="center" alt="Levalves-Aws" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
   <img align="center" alt="Levalves-Gcp" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
   <img align="center" alt="Levalves-Azure" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
   <img align="center" alt="Levalves-Oracle" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
@@ -37,10 +37,10 @@
   <img align="center" alt="Levalves-SqlServer" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
   <img align="center" alt="Levalves-Grafana" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" />
   <img align="center" alt="Levalves-Grafana" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" />
-  
-<div style="display: inline_block"><br>
   <img align="center" alt="Levalves-Jenkins" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
   <img align="center" alt="Levalves-Nginx" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
+  
+<div style="display: inline_block"><br>
   <img align="center" alt="Levalves-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="Levalves-Vim" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
   <img align="center" alt="Levalves-Vscode" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
