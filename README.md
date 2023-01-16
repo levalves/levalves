@@ -1,4 +1,5 @@
 ## Olá, Eu sou o Levinux
+DevOps Engineer | Software Engineer | IT Specialist | IT Infrastructure | Automation
 
 ## Conhecimentos / Knowledges
 
