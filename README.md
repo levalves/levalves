@@ -1,8 +1,7 @@
-## Olá, Eu sou o Levinux
+### Olá, Eu sou o Levinux
 DevOps Engineer | Software Engineer | IT Specialist | IT Infrastructure | Automation
-
-## Conhecimentos / Knowledges
-
+##
+### Conhecimentos / Knowledges
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Levalves-Unix" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" />
